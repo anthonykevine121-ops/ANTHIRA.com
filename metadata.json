@@ -1,0 +1,6 @@
+{
+  "name": "Osteria Marchesa - Wood-Fired Trattoria & Online Ordering",
+  "description": "Artisanal handmade pasta, wood-fired hearth pizzas, and prime steaks. Order online for swift curbside pickup or direct neighborhood delivery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
