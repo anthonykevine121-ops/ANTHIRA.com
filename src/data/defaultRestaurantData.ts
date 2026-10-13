@@ -2,11 +2,11 @@ import { RestaurantInfo, MenuCategory, MenuItem } from '../types/restaurant';
 
 // Image paths from batch generation matching the reference design
 export const ASSET_IMAGES = {
-  heroSlatePlatter: '/src/assets/images/hero_sushi_slate_platter_1791915562134.jpg',
-  salmonNigiriTrio: '/src/assets/images/dish_salmon_nigiri_trio_1791915561945.jpg',
-  omakaseSashimiBowl: '/src/assets/images/dish_omakase_sashimi_bowl_1791915562398.jpg',
-  dragonMakiRoll: '/src/assets/images/dish_dragon_maki_roll_1791915563407.jpg',
-  crispyWagyuGyoza: '/src/assets/images/dish_crispy_wagyu_gyoza_1791915563714.jpg',
+  heroSlatePlatter: '/images/hero_sushi_slate_platter_1791915562134.jpg',
+  salmonNigiriTrio: '/images/dish_salmon_nigiri_trio_1791915561945.jpg',
+  omakaseSashimiBowl: '/images/dish_omakase_sashimi_bowl_1791915562398.jpg',
+  dragonMakiRoll: '/images/dish_dragon_maki_roll_1791915563407.jpg',
+  crispyWagyuGyoza: '/images/dish_crispy_wagyu_gyoza_1791915563714.jpg',
 };
 
 export const DEFAULT_RESTAURANT_INFO: RestaurantInfo = {
